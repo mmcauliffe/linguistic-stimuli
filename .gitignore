@@ -1,4 +1,5 @@
 *.py[cod]
+lingstim/media
 
 # C extensions
 *.so
